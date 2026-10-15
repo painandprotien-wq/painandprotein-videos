@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+episodes/*/silent.mp4
+episodes/*/render.log
+videos/*.vo.wav
