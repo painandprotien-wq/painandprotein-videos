@@ -6,7 +6,7 @@ no medical or supplement claims).
 
 - [x] Skinny-fat? Recomp instead of bulking (episode 001)
 - [x] Endless cardio vs lifting for fat loss (episode 002)
-- [ ] Progressive overload: add a little every week
+- [x] Progressive overload: add a little every week (episode 003)
 - [ ] Protein at every meal, simple examples
 - [ ] Do not judge progress by the scale alone (mirror, lifts, waist)
 - [ ] Compound lifts first for beginners
