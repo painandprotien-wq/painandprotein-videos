@@ -5,7 +5,7 @@ add 5 new ones in the same spirit (beginner lifting and body recomposition, prac
 no medical or supplement claims).
 
 - [x] Skinny-fat? Recomp instead of bulking (episode 001)
-- [ ] Endless cardio vs lifting for fat loss
+- [x] Endless cardio vs lifting for fat loss (episode 002)
 - [ ] Progressive overload: add a little every week
 - [ ] Protein at every meal, simple examples
 - [ ] Do not judge progress by the scale alone (mirror, lifts, waist)
