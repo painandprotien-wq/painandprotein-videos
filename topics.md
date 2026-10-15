@@ -1,0 +1,18 @@
+# Topic backlog
+
+The CREATOR takes the first unchecked topic, then checks it off. When fewer than 3 remain,
+add 5 new ones in the same spirit (beginner lifting and body recomposition, practical,
+no medical or supplement claims).
+
+- [x] Skinny-fat? Recomp instead of bulking (episode 001)
+- [ ] Endless cardio vs lifting for fat loss
+- [ ] Progressive overload: add a little every week
+- [ ] Protein at every meal, simple examples
+- [ ] Do not judge progress by the scale alone (mirror, lifts, waist)
+- [ ] Compound lifts first for beginners
+- [ ] Dirty bulk vs lean bulk
+- [ ] Track your lifts or you are guessing
+- [ ] Daily steps: the easy fat-loss lever
+- [ ] Recomp takes months, stay consistent
+- [ ] Do not skip legs
+- [ ] Form before weight
