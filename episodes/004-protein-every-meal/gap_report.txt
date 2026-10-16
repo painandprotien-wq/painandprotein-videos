@@ -1,0 +1,44 @@
+{
+ "total": 15.53,
+ "plan": [
+  {
+   "src0": 0.0,
+   "src1": 3.0,
+   "new": 2.069,
+   "vo_dur": 1.858,
+   "overflow": 0
+  },
+  {
+   "src0": 3.0,
+   "src1": 7.0,
+   "new": 3.041,
+   "vo_dur": 2.921,
+   "overflow": 0
+  },
+  {
+   "src0": 7.0,
+   "src1": 12.0,
+   "new": 4.388,
+   "vo_dur": 4.268,
+   "overflow": 0
+  },
+  {
+   "src0": 12.0,
+   "src1": 16.0,
+   "new": 2.839,
+   "vo_dur": 2.719,
+   "overflow": 0
+  },
+  {
+   "src0": 16.0,
+   "src1": 20.0,
+   "new": 3.189,
+   "vo_dur": 1.789,
+   "overflow": 0
+  }
+ ],
+ "gaps": [
+  "silence_start: 14.1943",
+  "silence_end: 15.5306 | silence_duration: 1.33629"
+ ]
+}
