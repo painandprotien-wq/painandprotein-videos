@@ -1,41 +1,42 @@
 {
- "topic": "Do not judge progress by the scale alone (mirror, lifts, waist)",
- "scenes": [
-  {
-   "src0": 0.0,
-   "src1": 3.0,
-   "text": "Scale hasn't moved in weeks? Don't fucking panic."
-  },
-  {
-   "src0": 3.0,
-   "src1": 7.0,
-   "text": "Same fucking number every week. But the scale can't tell fat from muscle."
-  },
-  {
-   "src0": 7.0,
-   "src1": 12.0,
-   "text": "Check the mirror for more definition. Check if your lifts keep going up. Check your fucking waist with a tape."
-  },
-  {
-   "src0": 12.0,
-   "src1": 16.0,
-   "text": "Same weight, but less fat and more muscle. That's a fucking recomp, and it's working."
-  },
-  {
-   "src0": 16.0,
-   "src1": 20.0,
-   "text": "Judge the whole fucking picture, not one number."
-  }
- ],
- "caption": "Scale stuck on the same number? Check the mirror, your lifts and your waist every few weeks instead. If they improve while your weight stays the same, you are likely losing fat and building muscle. Save this for your next gym day.",
- "hashtags": [
-  "#gymbeginner",
-  "#fitnesstips",
-  "#skinnyfat",
-  "#nonscalevictory",
-  "#bodyrecomposition",
-  "#fitnessprogress",
-  "#recomp"
- ],
- "tiktok_title": "Scale not moving? Check these 3 things."
+  "topic": "Do not judge progress by the scale alone (mirror, lifts, waist)",
+  "scenes": [
+    {
+      "src0": 0.0,
+      "src1": 3.0,
+      "text": "Scale hasn't moved in weeks? Don't fucking panic."
+    },
+    {
+      "src0": 3.0,
+      "src1": 7.0,
+      "text": "Same fucking number every week. But the scale can't tell fat from muscle."
+    },
+    {
+      "src0": 7.0,
+      "src1": 12.0,
+      "text": "Check the mirror for more definition. Check if your lifts keep going up. Check your fucking waist with a tape."
+    },
+    {
+      "src0": 12.0,
+      "src1": 16.0,
+      "text": "Same weight, but less fat and more muscle. That's a fucking recomp, and it's working."
+    },
+    {
+      "src0": 16.0,
+      "src1": 20.0,
+      "text": "Judge the whole fucking picture, not one number."
+    }
+  ],
+  "caption": "Scale stuck on the same number? Check the mirror, your lifts and your waist every few weeks instead. If they improve while your weight stays the same, you are likely losing fat and building muscle. Save this for your next gym day.",
+  "hashtags": [
+    "#gymbeginner",
+    "#fitnesstips",
+    "#gymtok",
+    "#skinnyfat",
+    "#nonscalevictory",
+    "#bodyrecomposition",
+    "#fitnessprogress",
+    "#recomp"
+  ],
+  "tiktok_title": "Scale not moving? Check these 3 things."
 }

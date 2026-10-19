@@ -9,7 +9,7 @@ no medical or supplement claims).
 - [x] Progressive overload: add a little every week (episode 003)
 - [x] Protein at every meal, simple examples (episode 004)
 - [x] Do not judge progress by the scale alone (mirror, lifts, waist) (episode 005)
-- [ ] Compound lifts first for beginners
+- [x] Compound lifts first for beginners (episode 006)
 - [ ] Dirty bulk vs lean bulk
 - [ ] Track your lifts or you are guessing
 - [ ] Daily steps: the easy fat-loss lever
