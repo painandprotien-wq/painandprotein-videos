@@ -8,7 +8,7 @@ no medical or supplement claims).
 - [x] Endless cardio vs lifting for fat loss (episode 002)
 - [x] Progressive overload: add a little every week (episode 003)
 - [x] Protein at every meal, simple examples (episode 004)
-- [ ] Do not judge progress by the scale alone (mirror, lifts, waist)
+- [x] Do not judge progress by the scale alone (mirror, lifts, waist) (episode 005)
 - [ ] Compound lifts first for beginners
 - [ ] Dirty bulk vs lean bulk
 - [ ] Track your lifts or you are guessing
