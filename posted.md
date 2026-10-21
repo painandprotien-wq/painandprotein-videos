@@ -8,3 +8,4 @@
 | 004 | Protein at every meal, simple examples | 2026-10-16 18:00 | https://app.metricool.com/planner/calendar?blogId=7433264&openWithPostUuid=1429221860005660560 |
 | 005 | Do not judge progress by the scale alone (mirror, lifts, waist) | 2026-10-19 19:00 | https://app.metricool.com/planner/calendar?blogId=7433264&openWithPostUuid=8411482509998113292 |
 | 006 | Compound lifts first for beginners | 2026-10-20 21:00 | https://app.metricool.com/planner/calendar?blogId=7433264&openWithPostUuid=2417169818514115749 |
+| 007 | Dirty bulk vs lean bulk | 2026-10-21 18:00 | https://app.metricool.com/planner/calendar?blogId=7433264&openWithPostUuid=-3793246622483136347 |
