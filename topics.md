@@ -10,7 +10,7 @@ no medical or supplement claims).
 - [x] Protein at every meal, simple examples (episode 004)
 - [x] Do not judge progress by the scale alone (mirror, lifts, waist) (episode 005)
 - [x] Compound lifts first for beginners (episode 006)
-- [ ] Dirty bulk vs lean bulk
+- [x] Dirty bulk vs lean bulk (episode 007)
 - [ ] Track your lifts or you are guessing
 - [ ] Daily steps: the easy fat-loss lever
 - [ ] Recomp takes months, stay consistent
